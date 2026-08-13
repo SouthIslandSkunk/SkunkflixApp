@@ -30,8 +30,6 @@ Skunkflix does not create or maintain a separate Skunkflix account. To manage or
 
 For Plex account or server-specific support, visit [Plex Support](https://support.plex.tv/).
 
-## Privacy
 
-Read the [Skunkflix Privacy Policy](PRIVACY_POLICY.md).
 
 
