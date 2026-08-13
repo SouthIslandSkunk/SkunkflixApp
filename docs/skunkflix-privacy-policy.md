@@ -1,6 +1,6 @@
 # Skunkflix Privacy Policy
 
-**Effective date: 8 August 2026**
+**Effective date: 13 August 2026**
 
 This privacy policy explains, in plain language, what Skunkflix uses, where information goes, and what choices you have.
 
@@ -53,6 +53,8 @@ You can:
 - Delete the Skunkflix app to remove its locally stored app data from the device, subject to normal iOS backup and restore behaviour.
 - Revoke Local Network access in iOS Settings.
 
+Skunkflix does not create or maintain a separate Skunkflix account, so there is no Skunkflix account to delete. Your Plex account is a separate account provided by Plex and can be managed or deleted through [Plex account settings](https://app.plex.tv/desktop/#!/settings/account).
+
 Skunkflix cannot directly delete information held by Plex or Google. Their own retention and deletion rules apply to information they process. You can manage your Plex account through Plex and your Google information through Google.
 
 ## 8. Your choices and consent
@@ -61,7 +63,7 @@ You can choose not to connect a Plex account, revoke permissions, remove downloa
 
 ## 9. Third-party services
 
-Skunkflix works with third-party services, including Plex and Google Cast. Those services are separate from Skunkflix and have their own privacy policies and terms. Skunkflix only shares information with third-party services when needed for app functionality and requires integrated third-party services to protect user information in accordance with their published privacy terms and applicable privacy requirements.
+Skunkflix works with third-party services, including Plex and Google Cast. Those services are separate from Skunkflix and have their own privacy policies and terms. Skunkflix sends information to them only when needed for the Plex or Google Cast features you choose to use. Their published terms and privacy policies govern their processing of that information.
 
 Plex Privacy & Legal: https://www.plex.tv/about/privacy-legal/
 
