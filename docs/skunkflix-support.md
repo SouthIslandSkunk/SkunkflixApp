@@ -34,4 +34,4 @@ For Plex account or server-specific support, visit [Plex Support](https://suppor
 
 Read the [Skunkflix Privacy Policy](PRIVACY_POLICY.md).
 
-The website-ready version is also available as [`privacy-policy.html`](privacy-policy.html).
+
