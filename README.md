@@ -1,7 +1,6 @@
 Skunkflix is a modern media player designed for accessing your personal Plex Media Server library from iPhone, iPad and Mac.
 Browse your movies and TV shows in a clean, artwork-focused interface, continue watching from where you left off, search your library and enjoy your personal collection at home or on the move.
 Features include:
-Movies and TV library browsing
 Continue Watching with remaining-time information
 Recently added content
 Native video playback controls
